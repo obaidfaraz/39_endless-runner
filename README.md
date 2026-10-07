@@ -19,7 +19,7 @@ You are expected to **analyze**, **interact with an AI assistant**, and **comple
 ---
 
 ## Getting Started
-
+python main.py
 ### Setup
 
 1. Clone the repo or download the project folder.
